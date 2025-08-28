@@ -1,4 +1,4 @@
-import heroSample from "../assets/sample1.jpg";
+import heroSample from "../assets/herosplit.png";
 
 export default function HeroSplit() {
   return (
@@ -6,7 +6,7 @@ export default function HeroSplit() {
       {/* left content */}
       <div className="md:w-1/2 flex items-center">
         <div className="container mx-auto px-6 py-24">
-          <div className="text-sm text-dsPink font-semibold uppercase tracking-wider">
+          <div className="text-sm text-red font-semibold uppercase tracking-wider">
             Brand, Dev, Ecom, Marketing
           </div>
           <h1 className="mt-4 text-xl md:text-5xl font-extrabold text-dsBlue leading-tight">

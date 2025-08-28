@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Header from './components/Header'
 import HeroSplit from './components/HeroSplit'
 import ProjectsSection from './components/ProjectsSection'
