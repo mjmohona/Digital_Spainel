@@ -40,13 +40,13 @@ export default function Header() {
               <span>Services</span>
               <span className="absolute left-0 -bottom-1 w-0 h-[2px] bg-dsPink transition-all group-hover:w-full" />
             </a>
-            <a href="#work" className="hover:text-dsBlue">
+            <a href="#work" className="hover:underline text-sm">
               Work
             </a>
-            <a href="#about" className="hover:text-dsBlue">
+            <a href="#about" className="hover:underline text-sm">
               About
             </a>
-            <a href="#blog" className="hover:text-dsBlue">
+            <a href="#blog" className="hover:underline text-sm">
               Blog
             </a>
             <a href="#contact" className="hover:underline text-sm">
@@ -70,7 +70,7 @@ export default function Header() {
               >
                 <path
                   d="M4 6h16M4 12h16M4 18h16"
-                  stroke="#0f2b3b"
+                  stroke="#0f2b3bff"
                   strokeWidth="1.5"
                   strokeLinecap="round"
                 />
