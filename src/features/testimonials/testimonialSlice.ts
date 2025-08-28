@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import {
   generateTestimonials,
-  Testimonial,
+  type Testimonial,
 } from "../../mocks/generateTestimonialData";
 
 type TestimonialsState = {

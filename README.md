@@ -1,3 +1,18 @@
+## Overview
+A Vite + React + TypeScript + Tailwind starter that implements the key parts of the technical task:
+- Sticky header that hides on scroll down and reappears on scroll up
+- Responsive header with hamburger menu on mobile
+- Hero split (left content, right image)
+- Projects section (tab placeholder + image hover overlay)
+- Testimonials carousel fed by a Faker-generated mock using Redux Toolkit
+
+## Setup
+1. `npm install`
+2. `npm run dev`
+3. Visit `http://localhost:5173`
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
